@@ -172,7 +172,17 @@ ATUNSHE BOLAJI-DATA SCIENCE POSTGRESQL ASSIGNMENT 2
 
 
 --Q4.  The country with the highest and lowest games played 
+/* DAMILARE'S COMMENT:
 
+Bolaji, This works in that it shows all the teams and their corresponding games playedin descending order.
+But the question is just interestested in seeing the highest and the lowest.
+we would discuss this in class tomorrow.
+
+
+I see you applied the same technique to other questions as well.
+
+Great technique anyways.
+*/
 
             with
 	            all_world_cup as(
